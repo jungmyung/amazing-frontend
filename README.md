@@ -41,9 +41,13 @@
 * 기타
   - 기술적인 이야기가 끼어들 여지가 적어서, 고민 중
 
-### - 조은
+### null - 조은
 
-.
+* 내용
+  - basic과 standard의 중요성
+  - must가 아닌 should
+  - tool 의존성과 framework, library 의존성에 대한 개인적인 생각
+  - be open, stay close 
 
 ### "왜"라고 묻는 프론트엔드 개발자 - 주우영
 
